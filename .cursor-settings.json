@@ -20,6 +20,9 @@
     "enableActions": true,
     "enableCopilot": true,
     "enableCodespaces": true,
-    "enableAutoSync": true
-  }
-} 
+    "enableAutoSync": true,
+    "repository": "setyaax/procucilaundry",
+    "remoteUrl": "https://github.com/setyaax/procucilaundry.git"
+  },
+  "git.remote.origin.url": "https://github.com/setyaax/procucilaundry.git"
+}

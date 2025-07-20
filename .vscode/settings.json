@@ -32,5 +32,8 @@
     "src/**/*.ts",
     "src/**/*.svelte",
     ".cursor-context.md"
-  ]
-} 
+  ],
+  "git.remoteUrl": "https://github.com/setyaax/procucilaundry.git",
+  "cursor.git.remoteUrl": "https://github.com/setyaax/procucilaundry.git",
+  "cursor.workspace.githubRepository": "setyaax/procucilaundry"
+}
