@@ -1,0 +1,36 @@
+{
+  "typescript.preferences.includePackageJsonAutoImports": "auto",
+  "svelte.enable-ts-plugin": true,
+  "tailwindCSS.includeLanguages": {
+    "svelte": "html"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "cursor.ai.enableBackgroundContext": true,
+  "cursor.ai.projectContext": ".cursor-context.md",
+  "cursor.ai.enableInlineCompletions": true,
+  "cursor.ai.enableSmartSuggestions": true,
+  "cursor.git.enableAutoCommitMessages": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": true
+  },
+  "files.associations": {
+    "*.svelte": "svelte"
+  },
+  "emmet.includeLanguages": {
+    "svelte": "html"
+  },
+  "cursor.ai.contextFiles": [
+    "README.md",
+    "package.json",
+    "src/**/*.ts",
+    "src/**/*.svelte",
+    ".cursor-context.md"
+  ]
+} 
