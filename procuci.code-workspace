@@ -1,0 +1,32 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.remotes": [
+            {
+                "name": "origin",
+                "url": "https://github.com/setyaax/procucilaundry.git"
+            }
+        ],
+        "github.repository": {
+            "owner": "setyaax",
+            "name": "procucilaundry",
+            "url": "https://github.com/setyaax/procucilaundry"
+        },
+        "cursor.workspace.githubRepository": "setyaax/procucilaundry",
+        "cursor.git.remoteUrl": "https://github.com/setyaax/procucilaundry.git",
+        "git.remote.origin.url": "https://github.com/setyaax/procucilaundry.git"
+    },
+    "extensions": {
+        "recommendations": [
+            "svelte.svelte-vscode",
+            "ms-vscode.vscode-typescript-next",
+            "bradlc.vscode-tailwindcss",
+            "github.vscode-pull-request-github",
+            "github.copilot"
+        ]
+    }
+}

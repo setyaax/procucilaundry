@@ -1,0 +1,31 @@
+name: PROCUCI Laundry Management System
+description: Professional laundry management system for hotels
+url: https://github.com/setyaax/procucilaundry
+owner: setyaax
+repository: procucilaundry
+branch: main
+remote: origin
+
+# Repository metadata
+type: application
+framework: sveltekit
+language: typescript
+platform: web
+
+# GitHub integration
+github:
+  repository: setyaax/procucilaundry
+  owner: setyaax
+  name: procucilaundry
+  full_name: setyaax/procucilaundry
+  html_url: https://github.com/setyaax/procucilaundry
+  clone_url: https://github.com/setyaax/procucilaundry.git
+  ssh_url: git@github.com:setyaax/procucilaundry.git
+  
+# Features
+features:
+  - laundry-management
+  - hotel-operations
+  - order-tracking
+  - photo-documentation
+  - real-time-updates 
